@@ -16,7 +16,10 @@ load_dotenv()
 app = FastAPI(title="Order Management System")
 
 # CORS configuration
-allowed_origins_str = os.getenv("ALLOWED_ORIGINS", "http://localhost:5173")
+allowed_origins_str = os.getenv(
+    "ALLOWED_ORIGINS",
+    "http://localhost:5173,https://order-managment-system-oms.vercel.app"
+)
 allowed_origins = [origin.strip() for origin in allowed_origins_str.split(",")]
 
 app.add_middleware(
