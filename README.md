@@ -240,9 +240,9 @@ npm run dev
 
 ## After Deployment 
 'Docker Image Link' = https://hub.docker.com/r/adityanayan/oms-backend
-'Vercel (Frontend Link)' = 
-'Render (Backend Link)' = 
-'Supabae (Postgre Database)' = 
+'Vercel (Frontend Link)' = https://order-managment-system-oms.vercel.app/
+'Render (Backend Link)' = https://order-managment-system-oms.onrender.com
+'Render (Postgre Database)' = https://order-managment-system-oms.onrender.com/docs
 ---
 
 ## UI Features
