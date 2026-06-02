@@ -238,6 +238,11 @@ npm run dev
 | `ALLOWED_ORIGINS`| CORS allowed origins           | `http://localhost:5173`                    |
 | `VITE_API_URL`   | Backend API URL (frontend)     | `http://localhost:8000`                    |
 
+## After Deployment 
+'Docker Image Link' = https://hub.docker.com/r/adityanayan/oms-backend
+'Vercel (Frontend Link)' = 
+'Render (Backend Link)' = 
+'Supabae (Postgre Database)' = 
 ---
 
 ## UI Features
