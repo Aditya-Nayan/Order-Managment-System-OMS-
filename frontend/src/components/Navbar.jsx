@@ -49,7 +49,7 @@ function Navbar() {
         <div className="flex flex-col h-full">
           {/* Title */}
           <div className="px-6 py-7 border-b border-gray-100">
-            <h1 className="text-xl font-bold text-gray-900 tracking-tight">Order Management System</h1>
+            <h1 className="text-xl font-bold text-gray-900 tracking-tight">Order Management System .  </h1>
             <p className="text-xs text-gray-300 font-medium mt-0.5">By Aditya Nayan</p>
           </div>
 
